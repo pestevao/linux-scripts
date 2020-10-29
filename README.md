@@ -4,7 +4,7 @@ Some free linux scripts (for systems manly)
 
 
 *** disk-space-watcher.sh
-*****************************
+
 You can customize it as needed regarding:
 
   - line 13 - EXCLUDE_LIST - pipe any directory more that you want to exclude for beeing scaned (ex. some CIFS mounts or /tmp folder)
@@ -13,10 +13,9 @@ You can customize it as needed regarding:
 
 Call this script via crontab for example:
 
-  # DISK SPACE WATCHER (runs every 10 min.)
   */10 * * * * /fullpath_to_your/disk-space-watcher.sh
 
 
 
 *** 
-*****************************
+
