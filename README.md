@@ -1,4 +1,4 @@
-# linux-scripts
+# LINUX-SCRIPTS
 Some free linux scripts (for systems manly)
 
 
